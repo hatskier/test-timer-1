@@ -1,0 +1,22 @@
+{
+  "name": "test-timer-1",
+  "version": "1.0.0",
+  "description": "Test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatskier/test-timer-1.git"
+  },
+  "author": "Alice <alice@alice.si> (alice.si)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hatskier/test-timer-1/issues"
+  },
+  "homepage": "https://github.com/hatskier/test-timer-1#readme",
+  "dependencies": {
+    "consola": "^2.15.3"
+  }
+}
